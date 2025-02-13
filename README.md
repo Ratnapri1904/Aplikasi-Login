@@ -1,6 +1,8 @@
 # Aplikasi-Login
 Aplikasi dengan fitur login
 Alur fitur login :
-1. Masukkan email dan password
-2. Menvalidasi masukkan
-3. Menampilkan halaman home
+1. Memasukkan nama, email dan password
+2. Menvalidasi masukan
+3. Menvalidasi pengguna dengan deteksi wajah
+4. Memasukkan nama ibu untuk validasi
+5. Menampilkan halaman home
